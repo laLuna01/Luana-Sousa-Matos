@@ -1,0 +1,11 @@
+.personal-data h1 {
+    font-size: 2rem;
+    color: rgb(238, 104, 126);
+    border: 1px solid gray;
+    background-color: aqua;
+}
+
+.personal-data {
+    background-image: url("/img/bg1.jpg");
+    background-repeat: no-repeat;
+}

@@ -1,6 +1,11 @@
-span {
-    font-size: 30px;
+@import url('personal-data.css');
+@import url('list.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+body {
+    font-family: Mooli;
+    font-size: 62.5%;
+    background-color: rgb(212, 212, 212);
+    color: black;
 }
-table, th, td {
-    border: 1px solid;
-  }
